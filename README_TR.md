@@ -1,9 +1,9 @@
-# Pisi Linux — Paket Güncellik Panosu (Örnek README)
+# Pisi Linux — Paket Güncellik Panosu (Tahmini)
 
 Bu dosya, otomatik tablonun README içinde nasıl göründüğünü gösteren **gerçek veriyle
-üretilmiş** örnektir (pisilinux/main + pisilinux/core, 04.11.2026 itibarıyla).
+üretilmiş** tahminidir (pisilinux/main + pisilinux/core, 04.11.2026 itibarıyla).
 Aşağıdaki bölümün tamamı `scripts/pisi_stats.py` tarafından otomatik üretilir;
-README'nin diğer kısımlarına dokunulmaz.
+diğer kısımlarına dokunulmaz.
 
 ---
 
