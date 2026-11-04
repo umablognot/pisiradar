@@ -1,0 +1,204 @@
+{
+  "repos": [
+    "main",
+    "core"
+  ],
+  "org": "pisilinux",
+  "attribution": "source",
+  "thresholds": {
+    "yeni_days": 365,
+    "eski_days": 730
+  },
+  "colors": {
+    "yeni": "0A8109",
+    "eski": "BB0909",
+    "sorunlu": "833231"
+  },
+  "min_packages": 2,
+  "maintainers": {
+    "admins@pisilinux.org": {
+      "name": "PisiLinux Community",
+      "handle": ""
+    },
+    "bluedevil@sctzine.com": {
+      "name": "Blue Devil",
+      "handle": ""
+    },
+    "suvari@pisilinux.org": {
+      "name": "Kamil Atlı",
+      "handle": ""
+    },
+    "ayhanyalcinsoy@pisilinux.org": {
+      "name": "Ayhan Yalçınsoy",
+      "handle": ""
+    },
+    "groni@pisilinux.org": {
+      "name": "Stefan Gronewold (groni)",
+      "handle": ""
+    },
+    "alihan@pisilinux.org": {
+      "name": "Alihan Öztürk",
+      "handle": ""
+    },
+    "osman.erkan@pisilinux.org": {
+      "name": "Osman Erkan",
+      "handle": ""
+    },
+    "muscnsl@gmail.com": {
+      "name": "Mustafa Cinasal",
+      "handle": ""
+    },
+    "ertugrulerata@gmail.com": {
+      "name": "Ertuğrul Erata",
+      "handle": ""
+    },
+    "erkanisik@pisilinux.org": {
+      "name": "Erkan IŞIK",
+      "handle": ""
+    },
+    "mathiasfreire45@gmail.com": {
+      "name": "Mathias Freire",
+      "handle": ""
+    },
+    "bedirhan.kurt@outlook.com": {
+      "name": "Bedirhan Kurt",
+      "handle": ""
+    },
+    "berk2238@hotmail.com": {
+      "name": "Berk Çakar",
+      "handle": ""
+    },
+    "kaptan@pisilinux.org": {
+      "name": "Serdar Soytetir",
+      "handle": ""
+    },
+    "idriskalp@gmail.com": {
+      "name": "Idris Kalp",
+      "handle": ""
+    },
+    "marcin@pisilinux.org": {
+      "name": "Marcin Bojara",
+      "handle": ""
+    },
+    "rimru01@proton.me": {
+      "name": "Emir Bayram",
+      "handle": ""
+    },
+    "yusuf.aydemir@pisilinux.org": {
+      "name": "Yusuf Aydemir",
+      "handle": ""
+    },
+    "aydin.demirel@pisilinux.org": {
+      "name": "Aydın Demirel",
+      "handle": ""
+    },
+    "poyraz76@pisilinux.org": {
+      "name": "Ergün Salman",
+      "handle": ""
+    },
+    "sezaiyeniay@pisilinux.org": {
+      "name": "Sezai Yeniay",
+      "handle": ""
+    },
+    "safaariman@pisilinux.org": {
+      "name": "Safa Arıman",
+      "handle": ""
+    },
+    "squeakymouse@protonmail.com": {
+      "name": "Mogyorósi Petra",
+      "handle": ""
+    },
+    "mthnzbk@gmail.com": {
+      "name": "Metehan Özbek",
+      "handle": ""
+    },
+    "alicengizkurt@gmail.com": {
+      "name": "Ali Cengiz Kurt",
+      "handle": ""
+    },
+    "aligulle3801@gmail.com": {
+      "name": "Ali Algul",
+      "handle": ""
+    },
+    "ismetsezer1996@gmail.com": {
+      "name": "Ismet Sezer Simsek",
+      "handle": ""
+    },
+    "hrngultekin@gmail.com": {
+      "name": "Harun Gültekin",
+      "handle": ""
+    },
+    "atilla.balci@tarimorman.gov.tr": {
+      "name": "Atilla BALCI",
+      "handle": ""
+    },
+    "kurtbahartr@gmail.com": {
+      "name": "Bahar Kurt",
+      "handle": ""
+    },
+    "turgelfatih@gmail.com": {
+      "name": "Fatih Turgel",
+      "handle": ""
+    },
+    "karaguzelibrahim@gmail.com": {
+      "name": "İbrahim KARAGÜZEL",
+      "handle": ""
+    },
+    "aydinatmaca@gmail.org": {
+      "name": "AYDIN ATMACA",
+      "handle": ""
+    },
+    "samibabat@gmail.com": {
+      "name": "Sami BABAT",
+      "handle": ""
+    },
+    "enginmanap@comu.edu.tr": {
+      "name": "Engin Manap",
+      "handle": ""
+    },
+    "nekoland_anime@proton.me": {
+      "name": "Monica Everett",
+      "handle": ""
+    },
+    "yucel.kilic@linux.org.tr": {
+      "name": "Yücel KILIÇ",
+      "handle": ""
+    }
+  },
+  "aliases": {
+    "admins@pisilinux.org": [
+      "admin@gmail.com",
+      "admin@pisilinux.org",
+      "osman.erkan@pislinux.org",
+      "osman.erkan@yandex.com"
+    ],
+    "suvari@pisilinux.org": [
+      "suvarice@gmail.com"
+    ],
+    "yusuf.aydemir@pisilinux.org": [
+      "yusuf.aydemir@istanbul.com"
+    ],
+    "marcin@pisilinux.org": [
+      "marcin.bojara@gmail.com"
+    ],
+    "muscnsl@gmail.com": [
+      "muscnslp@gmail.com"
+    ],
+    "poyraz76@pisilinux.org": [
+      "ergunsalman@hotmail.com"
+    ],
+    "aydinatmaca@gmail.org": [
+      "aydinatmaca@gmail",
+      "aydinatmaca@gmail.com"
+    ],
+    "ayhanyalcinsoy@pisilinux.org": [
+      "ayhan yalçınsoy"
+    ],
+    "aligulle3801@gmail.com": [
+      "alialgul@pisilinux.org"
+    ],
+    "safaariman@pisilinux.org": [
+      "safa@ariman.gen.tr"
+    ]
+  }
+}
